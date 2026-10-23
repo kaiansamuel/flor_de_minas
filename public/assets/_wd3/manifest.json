@@ -1,0 +1,176 @@
+{
+ "entryUrl": "https://aube-gastronomy.aura.build/",
+ "capturedAt": "2026-10-18T19:38:51+00:00",
+ "indexHtml": {
+  "kind": "arquivo",
+  "description": "site vivo aberto com duplo clique (file://): um runtime faz o papel do Service Worker; imagens e vídeos que a página só exibe são lidos de assets/, o resto (CSS, JS, fontes, dados, imagens de WebGL) vai embutido no index.html"
+ },
+ "files": [
+  {
+   "url": "https://aube-gastronomy.aura.build/favicon.ico",
+   "file": "assets/aube-gastronomy.aura.build/favicon.ico",
+   "type": "image/vnd.microsoft.icon",
+   "resourceType": "other",
+   "size": 696,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://aube-gastronomy.aura.build/",
+   "file": "assets/aube-gastronomy.aura.build/index.html",
+   "type": "text/html",
+   "resourceType": "document",
+   "size": 133993,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js",
+   "file": "assets/cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js",
+   "type": "application/javascript",
+   "resourceType": "script",
+   "size": 669884,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "library": {
+    "name": "three",
+    "version": "0.160.0"
+   },
+   "role": "library"
+  },
+  {
+   "url": "https://cdn.tailwindcss.com/3.4.17",
+   "file": "assets/cdn.tailwindcss.com/3.4.17.js",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 407279,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "library": {
+    "name": "tailwindcss (Play CDN)",
+    "version": "3.4.17"
+   },
+   "role": "library"
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/05ee8748-17c5-4cf4-8e9c-76a5dc62e9f7_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/05ee8748-17c5-4cf4-8e9c-76a5dc62e9f7_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2519506,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/0c46c6fd-85c0-4323-84f0-ab00ef4840c7_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/0c46c6fd-85c0-4323-84f0-ab00ef4840c7_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2547027,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/24cc8f52-04c4-4906-8e8f-b2a1a602414f_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/24cc8f52-04c4-4906-8e8f-b2a1a602414f_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2379030,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/55cc5cbf-5b54-4024-b665-38b87bdbb35d_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/55cc5cbf-5b54-4024-b665-38b87bdbb35d_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2568529,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/5a0aef86-c6e5-420e-b9de-f907f3f0cc3b_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/5a0aef86-c6e5-420e-b9de-f907f3f0cc3b_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 3584497,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/782091e7-f78a-4924-bee3-aa4baeac97e2_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/782091e7-f78a-4924-bee3-aa4baeac97e2_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 3499535,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/82a0bfc2-7d83-400b-8591-8e325cd40290_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/82a0bfc2-7d83-400b-8591-8e325cd40290_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2713584,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/a695a70b-9a14-472e-b707-f7d302f95179_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/a695a70b-9a14-472e-b707-f7d302f95179_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2888329,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/d984dfb5-e241-4d03-83f8-0aaeb33c8f16_original.png",
+   "file": "assets/hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/d984dfb5-e241-4d03-83f8-0aaeb33c8f16_original.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 2289906,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  }
+ ]
+}
